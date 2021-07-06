@@ -1,0 +1,12 @@
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\bin\Debug\net5.0\DieRoller.Shared.deps.json
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\bin\Debug\net5.0\DieRoller.Shared.dll
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\bin\Debug\net5.0\ref\DieRoller.Shared.dll
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\bin\Debug\net5.0\DieRoller.Shared.pdb
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\DieRoller.Shared.csproj.AssemblyReference.cache
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\DieRoller.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\DieRoller.Shared.AssemblyInfoInputs.cache
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\DieRoller.Shared.AssemblyInfo.cs
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\DieRoller.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\DieRoller.Shared.dll
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\ref\DieRoller.Shared.dll
+C:\Users\Cleuseau\Source\Repos\DieRoller\DieRoller\Shared\obj\Debug\net5.0\DieRoller.Shared.pdb

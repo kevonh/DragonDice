@@ -1,0 +1,28 @@
+﻿@page "/counter"
+
+<h1>Die roller</h1>
+<EditForm Model="DieFaces">
+    <InputRadioGroup @bind-Value="DieFaces">
+        @foreach (int faceCount in Dice)
+        {
+            <InputRadio Value="faceCount" />@faceCount <br />
+        }
+    </InputRadioGroup>
+</EditForm>
+<p>Current Roll: @currentRoll</p>
+
+<button class="btn btn-primary" @onclick="RollDie">Click me</button>
+
+@code {
+    private int currentRoll = 0;
+    private int DieFaces = 0;
+
+    private void RollDie()
+    {
+        Random r = new Random();
+        currentRoll = r.Next(0, DieFaces); //for ints
+    }
+
+    List<int> Dice = new List<int> { 4, 6, 8, 10, 12, 20, 100 };
+
+}
