@@ -1,0 +1,104 @@
+.padded[b-lea128y3qu] {
+    padding: 5px;
+}
+
+.bigText[b-lea128y3qu] {
+    font-size: xx-large;
+}
+
+.centered[b-lea128y3qu] {
+    align-self: center;
+}
+
+.bordered[b-lea128y3qu] {
+    border-width: thin;
+    border-color: black;
+    border-radius: 5px;
+    border: solid;
+}
+
+.container[b-lea128y3qu] {
+    display: grid;
+    grid-template-columns: 200px 200px 1fr 200px;
+    grid-template-rows: 5px 40px 1fr 40px 1fr 40px;
+    grid-gap: 5px;
+    height: calc(100vh - 3.5rem);
+}
+
+.leftMargin[b-lea128y3qu] {
+    margin-left: 5px;
+}
+
+.header[b-lea128y3qu] {
+    display: flex;
+    flex-direction: row-reverse;
+    grid-column: 1 / 6;
+    grid-row: 1 / 1;
+}
+
+.characterLabel[b-lea128y3qu] {
+    grid-column: 1 / 1;
+    grid-row: 2 / 2;
+}
+
+.characterBox[b-lea128y3qu] {
+    grid-column: 1 / 1;
+    grid-row: 3 / 3;
+}
+
+.weaponLabel[b-lea128y3qu] {
+    grid-column: 1 / 1;
+    grid-row: 4 / 4;
+}
+
+.weaponList[b-lea128y3qu] {
+    grid-column: 1 / 1;
+    grid-row: 5 / 5;
+}
+
+.modifiersLabel[b-lea128y3qu] {
+    grid-column: 2 / 2;
+    grid-row: 2 / 2;
+}
+
+.modifierList[b-lea128y3qu] {
+    grid-column: 2/2;
+    grid-row: 3/3;
+}
+
+.actionLabel[b-lea128y3qu] {
+    grid-column: 2/2;
+    grid-row: 4/4;
+}
+
+.actionButtons[b-lea128y3qu] {
+    grid-column: 2/2;
+    grid-row: 5/5;
+}
+
+.mainChat[b-lea128y3qu] {
+    grid-column: 3/3;
+    grid-row: 3/6;
+}
+
+.typeChat[b-lea128y3qu] {
+    grid-column: 3/3;
+    grid-row: 6/6;
+    margin-bottom: 5px;
+}
+
+.othersLabel[b-lea128y3qu] {
+    grid-column: 4/4;
+    grid-row: 2/2;
+}
+
+.othersList[b-lea128y3qu] {
+    grid-column: 4/4;
+    grid-row: 3/4;
+}
+
+.button[b-lea128y3qu] {
+    padding: 1em;
+    font-size: large;
+    margin: 4px;
+}

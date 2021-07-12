@@ -1,35 +1,44 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj": {}
+    "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj": {
+    "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj",
+        "projectUniqueName": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj",
         "projectName": "DieRoller.Client",
-        "projectPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj",
-        "packagesPath": "C:\\Users\\Cleuseau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Client\\obj\\",
+        "projectPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj",
+        "packagesPath": "C:\\Users\\khoughton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cleuseau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\khoughton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/MrTOriqcxqxhjAYE87UgQEkurNCjGHvvu5x8Z1PZOMhhaebABI/api": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj": {
-                "projectPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj"
+              "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj": {
+                "projectPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj"
               }
             }
           }
@@ -71,7 +80,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.7, 5.0.7]"
+              "version": "[5.0.5, 5.0.5]"
             }
           ],
           "frameworkReferences": {
@@ -79,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -88,35 +97,44 @@
         }
       }
     },
-    "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj": {
+    "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj",
+        "projectUniqueName": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj",
         "projectName": "DieRoller.Server",
-        "projectPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj",
-        "packagesPath": "C:\\Users\\Cleuseau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Server\\obj\\",
+        "projectPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Server\\DieRoller.Server.csproj",
+        "packagesPath": "C:\\Users\\khoughton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cleuseau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\khoughton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/MrTOriqcxqxhjAYE87UgQEkurNCjGHvvu5x8Z1PZOMhhaebABI/api": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj": {
-                "projectPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj"
+              "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj": {
+                "projectPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Client\\DieRoller.Client.csproj"
               },
-              "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj": {
-                "projectPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj"
+              "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj": {
+                "projectPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj"
               }
             }
           }
@@ -146,6 +164,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.5, 5.0.5]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -154,29 +178,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj": {
+    "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj",
         "projectName": "DieRoller.Shared",
-        "projectPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj",
-        "packagesPath": "C:\\Users\\Cleuseau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj",
+        "packagesPath": "C:\\Users\\khoughton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cleuseau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\khoughton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/MrTOriqcxqxhjAYE87UgQEkurNCjGHvvu5x8Z1PZOMhhaebABI/api": {}
         },
         "frameworks": {
           "net5.0": {
@@ -208,7 +241,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
         }
       }
     }

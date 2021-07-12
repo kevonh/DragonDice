@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VS9C3F7+GmbNMNClRUWVzJ2/IflKOVcK+yP3TPxnDisSkgV5IwDI8RKNZO3Nbe6+fMUFEaivwxrRuFoTou9qWQ==",
+  "dgSpecHash": "fDmUMa+8j6x3k6xv2xgxNGAb+kZC80/qrEkYsLyAS/AdiHrmh/8aJ3dhbiQ+YGInTKYVMOXE+xRFC78SU8IhRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cleuseau\\Source\\Repos\\Kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj",
+  "projectFilePath": "C:\\Users\\khoughton\\Source\\Repos\\kevonh\\DragonDice\\DieRoller\\Shared\\DieRoller.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DieRoller.Server", "DieRoller\Server\DieRoller.Server.csproj", "{A2DAFDB6-263C-467C-9380-874D145CDBF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DieRoller.Server", "DieRoller\Server\DieRoller.Server.csproj", "{A2DAFDB6-263C-467C-9380-874D145CDBF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DieRoller.Client", "DieRoller\Client\DieRoller.Client.csproj", "{A6A7CE0A-A110-42D3-9CC1-71A56BF1FE7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DieRoller.Client", "DieRoller\Client\DieRoller.Client.csproj", "{A6A7CE0A-A110-42D3-9CC1-71A56BF1FE7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DieRoller.Shared", "DieRoller\Shared\DieRoller.Shared.csproj", "{2FB07604-EF80-4D34-9C85-EC00C0812D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DieRoller.Shared", "DieRoller\Shared\DieRoller.Shared.csproj", "{2FB07604-EF80-4D34-9C85-EC00C0812D5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

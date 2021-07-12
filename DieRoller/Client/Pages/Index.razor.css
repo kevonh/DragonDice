@@ -1,0 +1,104 @@
+﻿.padded {
+    padding: 5px;
+}
+
+.bigText {
+    font-size: xx-large;
+}
+
+.centered {
+    align-self: center;
+}
+
+.bordered {
+    border-width: thin;
+    border-color: black;
+    border-radius: 5px;
+    border: solid;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px 1fr 200px;
+    grid-template-rows: 5px 40px 1fr 40px 1fr 40px;
+    grid-gap: 5px;
+    height: calc(100vh - 3.5rem);
+}
+
+.leftMargin {
+    margin-left: 5px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+    grid-column: 1 / 6;
+    grid-row: 1 / 1;
+}
+
+.characterLabel {
+    grid-column: 1 / 1;
+    grid-row: 2 / 2;
+}
+
+.characterBox {
+    grid-column: 1 / 1;
+    grid-row: 3 / 3;
+}
+
+.weaponLabel {
+    grid-column: 1 / 1;
+    grid-row: 4 / 4;
+}
+
+.weaponList {
+    grid-column: 1 / 1;
+    grid-row: 5 / 5;
+}
+
+.modifiersLabel {
+    grid-column: 2 / 2;
+    grid-row: 2 / 2;
+}
+
+.modifierList {
+    grid-column: 2/2;
+    grid-row: 3/3;
+}
+
+.actionLabel {
+    grid-column: 2/2;
+    grid-row: 4/4;
+}
+
+.actionButtons {
+    grid-column: 2/2;
+    grid-row: 5/5;
+}
+
+.mainChat {
+    grid-column: 3/3;
+    grid-row: 3/6;
+}
+
+.typeChat {
+    grid-column: 3/3;
+    grid-row: 6/6;
+    margin-bottom: 5px;
+}
+
+.othersLabel {
+    grid-column: 4/4;
+    grid-row: 2/2;
+}
+
+.othersList {
+    grid-column: 4/4;
+    grid-row: 3/4;
+}
+
+.button {
+    padding: 1em;
+    font-size: large;
+    margin: 4px;
+}
